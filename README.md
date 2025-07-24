@@ -51,4 +51,4 @@ Start exploring now and take full control of your machine! ⚡💻
 ---
 
 Made with ❤️ by Rakibul Islam & ChatGPT  
-[GitHub Profile](https://github.com/rakibhossain4230)
+[GitHub Profile](https://github.com/rakibhossain2025)
