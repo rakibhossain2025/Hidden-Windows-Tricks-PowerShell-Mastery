@@ -50,5 +50,18 @@ Start exploring now and take full control of your machine! ⚡💻
 
 ---
 
+
+🎓 সিরিজ শেষ! এখন তুমি একজন Windows PowerUser 💻
+| ✅ পর্ব | বিষয়                          |
+| ------ | ----------------------------- |
+| ১      | Hidden Folder + Permission    |
+| ২      | Registry + Performance Boost  |
+| ৩      | Context Menu + Desktop Tools  |
+| ৪      | Defender + Privacy + USB Auto |
+| ৫      | Startup + Automation Scripts  |
+| ৬      | Toolkit Build + One Click Ops |
+
+
+
 Made with ❤️ by Rakibul Islam & ChatGPT  
 [GitHub Profile](https://github.com/rakibhossain2025)
